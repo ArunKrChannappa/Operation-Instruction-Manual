@@ -22,6 +22,13 @@ We strongly recommend that you carry out your product safety risk assessment.
 **Warnings**
 ________________________________________________________________
 
+**Hazard – Always ensure to press the Emergency Stop button whenever you consider that an environment is potentially unsafe**
+![Warning](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/0d5a3de7-7bbc-4290-a99d-1e7e3310ee3c)
+The Emergency Stop button shuts off hydraulic power or de-energizes electrical drive and avoids any unsafe actions. It does not isolate the system from electrical power, other means are provided to disconnect the electrical supply. Whenever you consider that safety is being compromised, stop the test using the Emergency Stop button. Investigate and resolve the situation yourself or contact an ITW India Private Limited (BISS Division) personnel before switching ON the machine.
+
+**Flying Debris Hazard - Make sure that the test specimens are installed correctly in grips or fixtures in order to eliminate stresses that can lead to breakage of grip jaws or fixture components.**
+![Helmet](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/740cbf69-f8a3-4529-8551-b096f51061bf)
+Incorrect mounting of test specimens creates stresses in grip jaws or fixture components that can ultimately result in the breakage of these components. The high energies involved can cause the broken parts to be projected beyond the allocated test area. Ensure that you install specimens in the center of the grip jaws in line with the load path. Insert specimens into the jaws by at least the amount recommended in your grip documentation. This amount can vary between 66% to 100% insertion depths. (refer to supplied instructions for your specific grips) so we recommend you use the centering aid and alignment devices provided.
 
 
 
