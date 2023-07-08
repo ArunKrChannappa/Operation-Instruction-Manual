@@ -126,11 +126,28 @@ Dynamic systems, especially where load reversals through zero are occurring, are
 | 23	| AC-03-SI | Safety Interlock for Air Pressure and Control panel door, Anti-tie Logic |
 | 24	| AC-03-SG | Steel Mesh Safety guard |
 
-# Component Identification
-
-
+## Component Identification
 
 ![Component Identification](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/6c439bf5-8b3e-4bfa-a827-8291f1a9ac1b)
+
+# System Identification
+
+| Component | Description |
+|----------|-------------|
+| ![Emergency Button](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/d718b699-3577-4572-ad97-675d5fee32ab) Emergency Stop | Press this button to momentarily stop the actuator and all other associated controls. This action results in an immediate halt of all frame motions, disabling further instructions. |
+| ![Selector Switch](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/57e16224-fbba-4abc-8d0f-33579aeb0a17) Main power disconnect switch | Provides main power control to the system. When the switch is off, all power to the load frame, Controller and HPS are shut off. Power to the computer system is unaffected as they have their power supply. |
+| ![Pump Start](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/b21f5df1-0551-4b7e-9aa5-6f85d577fc04) Pump Start | Press this button to start the HPS. |
+|	![Cntrollers](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/91d9b752-90af-4552-9e51-7fae3a6c04bf) Controllers | The 2020 Series control unit houses control components that: receive and process data from various system transducers, communicate with the system’s controlling software, and provide feedback to the system’s servo valve to operate the frame as set up in the controlling software. |
+ 
+
+
+
+
+
+
+
+
+
 
 
 
