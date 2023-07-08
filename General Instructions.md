@@ -73,6 +73,28 @@ Disconnect equipment from the electrical power supply before removing any electr
 ![Rotating Machine Hazard](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/b77f55c8-d6d2-4387-a570-fab22eb36c71)
 Disconnect equipment from all power supplies before removing any cover which gives access to rotating machinery. Do not reconnect any power supply while the covers are removed unless you are specifically instructed to do so in the manual. If the equipment needs to be operated to perform maintenance tasks with the covers removed, ensure that all loose clothing, long hair, etc. is tied back neatly and refit covers immediately.
 
+**Hazard - Shut down the hydraulic power supply and discharge hydraulic pressure before disconnection of any hydraulic fluid coupling**
+
+![Warning](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/2139c39a-fb10-423f-9ca0-13e0bee9535c)
+Do not disconnect any hydraulic coupling without first shutting down the hydraulic power supply and discharging stored pressure to zero. Tie-down or otherwise secure all pressurized hoses to prevent movement during system operation and to prevent the hose from whipping about in the event of a rupture.
+
+**Hazard - Shut off the supply of compressed gas and discharge residual gas pressure before you disconnect any compressed gas coupling**
+
+![Warning](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/bf9d8ff4-0318-4ca6-8898-adcd0ab2ad33)
+Do not release gas connections without first disconnecting the gas supply and discharging any residual pressure to zero
+
+**Warnings**
+_______________________
+
+**Explosion Hazard - Wear eye protection and use protective shields or screens whenever there is a possibility of a potential hazard from the failure of a specimen, assembly, or structure under test**
+
+![Helmet](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/50fb5a8c-c09f-419e-8028-bb777d780509)
+Wear eye protection and use protective shields or screens whenever there is a risk of injury to operators and observers due to the failure of a test specimen, assembly, or structure, especially where explosive disintegration may occur. Due to the wide range of specimen materials, assemblies, or structures that may be tested, any hazard resulting from the failure of a test specimen, assembly, or structure must be assessed on a priory basis and suitable precautionary procedures have to be taken.
+
+**Hazard - Ensure components of the load string are correctly pre-loaded to minimize the risk of fatigue failure**
+
+![Warning](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/3f7d126b-3650-4355-8936-54e718f389de)
+Dynamic systems, especially where load reversals through zero are occurring, are at risk of fatigue cracks developing if components of the load string are not correctly pre-loaded to one another. Apply the specified torque to all load string fasteners and the correct setting to wedge washers or spiral washers. Visually inspect highly stressed components such as grips and threaded adapters before every fatigue test for signs of wear or fatigue damage.
 
 
 
