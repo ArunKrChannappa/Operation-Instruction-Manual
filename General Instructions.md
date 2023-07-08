@@ -19,7 +19,7 @@ To adhere to the safety guidelines, it is mandatory for you to gain a thorough u
 
 We strongly recommend that you carry out your product safety risk assessment.
 
-__Warnings
+**Warnings**
 ________________________________________________________________
 
 
