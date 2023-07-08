@@ -42,7 +42,8 @@ _________________________________
 
 **High/Low-Temperature Hazard - Wear protective clothing when handling equipment under extreme temperatures**
 
-![Temperature Hazard](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/873a4d6f-db9d-4ef8-b794-c10a5dbea215)
+![High Temperature Hazard](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/bd4f42fe-91e5-46a1-a408-95fd3388418f)![Cryogenic Hazard](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/3258b8ed-2fe8-40c2-829a-4e6763a3c3af)
+
 Materials testing is often carried out at non-ambient temperatures using ovens, furnaces, or cryogenic chambers. Extreme temperature implies an operating temperature exceeding 60 °C (140 °F) or below 0 °C (32 °F). You must use protective clothing, such as gloves when handling equipment at these temperatures. Display a warning notice concerning low or high-temperature operation whenever temperature control equipment is in use. You should note that the hazard from extreme temperatures can extend beyond the immediate test area.
 
 **Crush Hazard - Take care when mounting or removing a specimen, assembly, structure, or load string component**
@@ -88,7 +89,7 @@ _______________________
 
 **Explosion Hazard - Wear eye protection and use protective shields or screens whenever there is a possibility of a potential hazard from the failure of a specimen, assembly, or structure under test**
 
-![Eye Protection Hazard](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/72f453b0-77eb-4554-8fa1-85b2347bc858)
+![Helmet   Goggle](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/f0be9496-6e3d-4b2d-b1a4-a9c9495166c8)
 Wear eye protection and use protective shields or screens whenever there is a risk of injury to operators and observers due to the failure of a test specimen, assembly, or structure, especially where explosive disintegration may occur. Due to the wide range of specimen materials, assemblies, or structures that may be tested, any hazard resulting from the failure of a test specimen, assembly, or structure must be assessed on a priory basis and suitable precautionary procedures have to be taken.
 
 **Hazard - Ensure components of the load string are correctly pre-loaded to minimize the risk of fatigue failure**
