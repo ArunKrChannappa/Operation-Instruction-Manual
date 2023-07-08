@@ -152,9 +152,13 @@ Dynamic systems, especially where load reversals through zero are occurring, are
 | ![Ground Stud Hazard](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/d53eeb04-4c0b-488a-9d8c-9c6c33e4076a) | Ground stud - Indicates a ground stud. Connect to an appropriate ground/earth system. | 
 | ![Protective Earth Hazard](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/3e4ac3ad-1809-4fad-a6fa-94774cc95026) | Protective earth - Indicates the protective earth terminal for the main power supply. |
 
+# Product Documentation Guidelines
 
-
-
+|----------|-------------|
+| Installation Manual | Information about preparing your site for eventual system installation, system retrieval, and system relocation. |
+| Operating Instructions | How to use your system components and controls, and other frequently performed operating tasks. |
+| Machine Manual  | How to properly set up and use any accessories you have purchased, for example, grips, fixtures, extensometers, transducers, hydraulic power units, actuators, and environmental chambers (if supplied). |
+|	Online Help | Software products come complete with context-sensitive help, which provides detailed information on how to use all the software features. |
 
 
 
