@@ -154,6 +154,7 @@ Dynamic systems, especially where load reversals through zero are occurring, are
 
 # Product Documentation Guidelines
 
+| Product | Purpose |
 |----------|-------------|
 | Installation Manual | Information about preparing your site for eventual system installation, system retrieval, and system relocation. |
 | Operating Instructions | How to use your system components and controls, and other frequently performed operating tasks. |
