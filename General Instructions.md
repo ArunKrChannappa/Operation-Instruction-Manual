@@ -132,14 +132,25 @@ Dynamic systems, especially where load reversals through zero are occurring, are
 
 # System Identification
 
-|   Component     | Description |
-|-----------------|-------------|
-| ![Emergency Button](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/d718b699-3577-4572-ad97-675d5fee32ab) Emergency Stop     | Press this button to momentarily stop the actuator and all other associated controls. This action results in an immediate halt of all frame motions, disabling further instructions. |
-| ![Selector Switch](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/57e16224-fbba-4abc-8d0f-33579aeb0a17) Main power disconnect switch        | Provides main power control to the system. When the switch is off, all power to the load frame, Controller and HPS are shut off. Power to the computer system is unaffected as they have their power supply. |
+|   Component | Description |
+|-------------|-------------|
+| ![Emergency Button](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/d718b699-3577-4572-ad97-675d5fee32ab) Emergency Stop | Press this button to momentarily stop the actuator and all other associated controls. This action results in an immediate halt of all frame motions, disabling further instructions. | 
+| ![Selector Switch](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/57e16224-fbba-4abc-8d0f-33579aeb0a17) Main power disconnect switch | Provides main power control to the system. When the switch is off, all power to the load frame, Controller and HPS are shut off. Power to the computer system is unaffected as they have their power supply. |
 | ![Pump Start](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/b21f5df1-0551-4b7e-9aa5-6f85d577fc04) Pump Start | Press this button to start the HPS. |
 |	![Cntrollers](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/91d9b752-90af-4552-9e51-7fae3a6c04bf) Controllers | The 2020 Series control unit houses control components that: receive and process data from various system transducers, communicate with the system’s controlling software, and provide feedback to the system’s servo valve to operate the frame as set up in the controlling software. |
- 
 
+ # System Safety and Labelling Information
+
+| Label | Definition and Purpose |
+|----------|-------------|
+| ![Label](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/0344dd81-77bb-480d-9940-fd5cb5a13303) | Crush hazard - Indicates that pinching or crush hazard exists from two objects coming together and instructs the user to read and understand the operator’s manual before using the machine |
+| ![Electric Hazard](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/dbd50a20-7e8c-4b16-95be-1841062a005d) | Electrical hazard - Indicates that a hazard exists from high voltage or electrical current. |
+| ![High Pressure Hazard](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/4746ae99-2617-42e5-b8cd-899267c89852) | High-pressure hazard - Indicates that a hazard exists from high pressure. Do not adjust or reset any pressure settings until you have thoroughly read and understood the operator’s manual as this can result in mass equipment damage. Pressure settings should only be adjusted by an Instron service engineer. |
+|	![Eye Protection Hazard 2](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/14fd257c-68b2-465c-bc7f-17449d99f978) | Eye protection - Indicates that a flying debris hazard exists either from specimen failure or improper usage of system components. Wear eye protection and use protective shields or screens whenever appropriate. Be sure to read and understand the operator’s manual before using the system |
+| ![Read Manuals](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/c6f7c812-accd-45a6-84d5-99f21ff40071) | Read the manual - Read and understand the operator’s manual before using the system. |
+| ![Warning](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/57de85cb-25c5-42a8-b1cb-a1ce894fb38c)	| General hazard - Indicates a general hazard. Be sure to read and understand the operator’s manual before you start using the system. Only authorized personnel should service the equipment. |
+| ![Ground Stud Hazard](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/d53eeb04-4c0b-488a-9d8c-9c6c33e4076a) | Ground stud - Indicates a ground stud. Connect to an appropriate ground/earth system. | 
+| ![Protective Earth Hazard](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/3e4ac3ad-1809-4fad-a6fa-94774cc95026) | Protective earth - Indicates the protective earth terminal for the main power supply. |
 
 
 
