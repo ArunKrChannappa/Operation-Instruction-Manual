@@ -128,6 +128,8 @@ Dynamic systems, especially where load reversals through zero are occurring, are
 
 # Component Identification
 
+
+
 ![Component Identification](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/6c439bf5-8b3e-4bfa-a827-8291f1a9ac1b)
 
 
