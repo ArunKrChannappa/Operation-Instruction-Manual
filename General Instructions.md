@@ -97,7 +97,34 @@ Wear eye protection and use protective shields or screens whenever there is a ri
 ![Warning](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/3f7d126b-3650-4355-8936-54e718f389de)
 Dynamic systems, especially where load reversals through zero are occurring, are at risk of fatigue cracks developing if components of the load string are not correctly pre-loaded to one another. Apply the specified torque to all load string fasteners and the correct setting to wedge washers or spiral washers. Visually inspect highly stressed components such as grips and threaded adapters before every fatigue test for signs of wear or fatigue damage.
 
+# System Components
 
+| SL No | Model No | Description |
+|-------|----------|-------------|
+| 1	| AC-01-2020 | Dual Station Load frame |
+| 2	| AC-06-0025 | 10 kN Load Cell |
+| 3 | AC-02-0110 | 10 kN Servo-hydraulic Actuator |
+| 4 |	AC-02-E200 | 200 mm Digital Linear Encoder |
+| 5	| AC-02-0505 | 0.5 L Accumulator |
+| 6	| AC-02-0160P	| 40 LPM Servo Valve |
+| 7	| AC-02-0405 | 40 LPM DC Valve | 
+| 8	| AC-02-0010 | NG6 Actuator Control Manifold |
+| 9	| AC-04-2370 | Dual Station Digital Servo Controller |
+| 10 |AC-04-0002 | Enclosure with A/C |
+| 11 | AC-03-90IC	| External Cables |
+| 12 | AC-04-PC01	| Host Computer 1 |
+| 13	| AC-04-UPS2 | 3000 VA UPS with internal batteries |
+| 14	| AC-08-0203 | Shox QC |
+| 15	| AC-05-015P | Production Grips and Fixtures |
+| 16	| AC-03-0021 | 21 LPM Hydraulic Power Pack |
+| 17	| AC-03-21IC | Input Power Cable for 21 lpm power pack |
+| 18	| AC-03-40HH | Hydraulic hose combination for 21lpm power pack |
+| 19	| AC-03-UPS1 | 10 ltr Hydraulic UPS with Stand |
+| 20	| AC-04-BZ | Buzzer with Indicator Lights |
+| 21	| AC-04-SCRT | Safety Curtain |
+| 22	| AC-04-SIP | Part/Sample Detection Sensor |
+| 23	| AC-03-SI | Safety Interlock for Air Pressure and Control panel door, Anti-tie Logic |
+| 24	| AC-03-SG | Steel Mesh Safety guard |
 
 
 
