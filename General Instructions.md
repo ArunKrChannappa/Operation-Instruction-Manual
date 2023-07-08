@@ -195,6 +195,20 @@ To select a required language go to SettingsOthersLanguage
 
 ![Fault Panel](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/8ac8e90a-52ea-4e15-8aaa-1d0c9b8cef49)
 
+# Testing
+- Damper testing
+
+## Damper Testing
+
+1. Requirements
+   - Grips/Fixtures: Pre-mounted on system
+
+2. Test Procedure
+   - Powering Up the System
+   - Test Setup
+     - Mount Specimen
+   - Run the test
+   - Export Data
 
 
 
