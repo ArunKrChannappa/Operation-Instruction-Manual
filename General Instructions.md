@@ -163,7 +163,7 @@ Dynamic systems, especially where load reversals through zero are occurring, are
 
 # System Usage Limits
 
-| Model No | Description |
+| Activity | Description |
 |----------|-------------|
 | Intended use and foreseeable misuse: | When equipped with appropriate fixtures, the system is intended to conduct static tension, compression, bend, flexure, and shear tests on a variety of specimen shapes and material types. The material types must be limited to those disintegrated into no more than two pieces that will be retained in the fixtures or whose failure does not result in hazardous projectiles. The system can operate in servo control mode only through an integrated ITW India Pvt Ltd (BISS Division) Materials Testing Software package. The system must never be left unattended while in operation. The system should not be used for any purpose other than static testing of the material types specified above. It must not be used to test specimens of material types that result in hazardous projectiles unless an interlocked guard with an appropriate performance level is added. You must conduct your risk assessment and take appropriate measures to prevent operator injury and guard the equipment. ITW India Pvt Ltd (BISS Division) offers safety-rated guards for this purpose. Please contact your local ITW India Pvt Ltd (BISS Division) representative for more information. The system must not be used as a press. The system should not be operated by anyone who does not fit the criteria specified in the “Operator characteristics:” and “Operator training/experience:” sections of this table. |
 | Intervention procedures: | The system is equipped with **Emergency** Stop controls |
