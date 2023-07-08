@@ -126,6 +126,11 @@ Dynamic systems, especially where load reversals through zero are occurring, are
 | 23	| AC-03-SI | Safety Interlock for Air Pressure and Control panel door, Anti-tie Logic |
 | 24	| AC-03-SG | Steel Mesh Safety guard |
 
+# Component Identification
+
+![Component Identification](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/6c439bf5-8b3e-4bfa-a827-8291f1a9ac1b)
+
+
 
 
 
