@@ -178,13 +178,22 @@ System can be operated entirely by the PLI Tab, and by functions within the cont
 - PLI Tab
 - MTL32 basic & application software
 
+# PLI Tab Operating Guidelines
 
+**Settings**
+To select a required language go to SettingsOthersLanguage
 
+![Language Settings](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/27031ba2-0428-49b4-bd9a-8a54a51b1978)
 
+![Communication](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/1fceaf13-06e1-4724-8a92-35fab976e39e)
 
+**Home Page**
 
+![Home Page](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/b681f7ac-87a8-4ede-bb97-776623c20065)
 
+**Fault Panel**
 
+![Fault Panel](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/8ac8e90a-52ea-4e15-8aaa-1d0c9b8cef49)
 
 
 
