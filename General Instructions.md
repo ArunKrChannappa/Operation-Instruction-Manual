@@ -38,6 +38,7 @@ Incorrect mounting of test specimens creates stresses in grip jaws or fixture co
 The loss of controlling and feedback signals due to a potentially disconnected or damaged cable causes an open-loop condition that may drive the actuator or crosshead rapidly to its extremes positions. Protect all electrical cables, particularly transducer cables, from damage. Never route cables across the floor without protection or suspend cables overhead under excessive strain. Use protective padding to avoid inter cable frictions especially around corners or through wall openings.
 
 **Warnings**
+_________________________________
 
 **High/Low-Temperature Hazard - Wear protective clothing when handling equipment under extreme temperatures**
 
@@ -55,6 +56,7 @@ Mounting or removal of a specimen, assembly, structure, or load string component
 The actuator or crosshead will immediately respond to manual control settings when the system is placed off-line from computer control. Before transferring to manual control, make sure that the control settings are appropriately optimized to prevent any unexpected movements of the actuator or the crosshead.
 
 **Warnings**
+__________________________________________________
 
 **Hazard - Set appropriate limits before performing loop tuning or running waveforms or tests**
 
