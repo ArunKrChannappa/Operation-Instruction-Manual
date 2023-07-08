@@ -1,8 +1,10 @@
 # General Instructions
 Testing systems are potentially hazardous.
 
+![Warning](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/b75b0104-2ed8-4e66-af28-24a18fc6236a)
 Materials testing involves inherent hazards ranging from high forces, rapid motions, to stored energy. You must be aware of all moving and operating components that are potentially hazardous, particularly the actuator in a servo-hydraulic testing system or the moving crosshead in a testing system.
 
+![Read Manuals](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/11e434fb-ed83-4002-8523-3d3d00f4eba1)
 Carefully read all relevant manuals and observe any Warnings and Cautions. The term Warning is used where a hazard may lead to an injury or even death. The term Caution is used where a hazard may lead to potential equipment damage and severe loss of valuable data.
 
 ITW India Private Limited (BISS Division) products comply with a wide range of national and international safety standards, applicable to materials and structural testing. Our products are intrinsically designed to the strict ITW India Private Limited (BISS Division) Safety Standard. (available on request)
