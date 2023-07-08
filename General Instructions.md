@@ -88,8 +88,7 @@ _______________________
 
 **Explosion Hazard - Wear eye protection and use protective shields or screens whenever there is a possibility of a potential hazard from the failure of a specimen, assembly, or structure under test**
 
-![Helmet](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/067bb65a-ac05-4b44-b7f9-f4193925b197)![Eye Protection Hazard](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/93ba5449-7e8b-47fd-a944-1ddbe7f300e6)
-
+![Eye Protection Hazard](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/72f453b0-77eb-4554-8fa1-85b2347bc858)
 Wear eye protection and use protective shields or screens whenever there is a risk of injury to operators and observers due to the failure of a test specimen, assembly, or structure, especially where explosive disintegration may occur. Due to the wide range of specimen materials, assemblies, or structures that may be tested, any hazard resulting from the failure of a test specimen, assembly, or structure must be assessed on a priory basis and suitable precautionary procedures have to be taken.
 
 **Hazard - Ensure components of the load string are correctly pre-loaded to minimize the risk of fatigue failure**
