@@ -175,7 +175,6 @@ Dynamic systems, especially where load reversals through zero are occurring, are
 # System Standard Operating Procedure
 System can be operated entirely by the PLI Tab, and by functions within the controlling software:
 
-Unordered list
 - PLI Tab
 - MTL32 basic & application software
 
