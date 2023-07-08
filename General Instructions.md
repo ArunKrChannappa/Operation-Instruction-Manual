@@ -17,8 +17,10 @@ The following pages provide a detailed guide to various general warnings that yo
 
 To adhere to the safety guidelines, it is mandatory for you to gain a thorough understanding of the equipment by reading instruction manuals and to always use good judgment.
 
+**Warnings
 
-*Warnings
+
+
 
 
 
