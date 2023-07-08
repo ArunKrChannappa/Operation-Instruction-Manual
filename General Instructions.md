@@ -172,6 +172,12 @@ Dynamic systems, especially where load reversals through zero are occurring, are
 | Operator training/ experience: | Operators should be familiar with the operation of materials testing systems in general and with the inherent hazards of such testing. Operators should gain a thorough understanding of this equipment by reading these instructions and all other relevant documents provided. Initial basic safety and operational training are provided by ITW India Pvt Ltd (BISS Division) Service personnel during the installation of the system. Maintenance personnel or technicians should have sufficient training and skills to safely perform all the procedures. Trainees and apprentices should only operate or maintain the system under the direct supervision of qualified operators or maintenance personnel. The general public should not have access to the system. |
 | Exposure of other persons to hazards:	| Exposure to hazards is greatly reduced by the knowledge of qualified operators. Anyone who does not fit the criteria specified in the “Operator characteristics:” and “Operator training/experience:” sections of this table should not have access to the system. |
 
+# System Standard Operating Procedure
+System can be operated entirely by the PLI Tab, and by functions within the controlling software:
+
+Unordered list
+- PLI Tab
+- MTL32 basic & application software
 
 
 
