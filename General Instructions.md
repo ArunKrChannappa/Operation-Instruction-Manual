@@ -32,7 +32,44 @@ The Emergency Stop button shuts off hydraulic power or de-energizes electrical d
 ![Helmet](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/740cbf69-f8a3-4529-8551-b096f51061bf)
 Incorrect mounting of test specimens creates stresses in grip jaws or fixture components that can ultimately result in the breakage of these components. The high energies involved can cause the broken parts to be projected beyond the allocated test area. Ensure that you install specimens in the center of the grip jaws in line with the load path. Insert specimens into the jaws by at least the amount recommended in your grip documentation. This amount can vary between 66% to 100% insertion depths. (refer to supplied instructions for your specific grips) so we recommend you use the centering aid and alignment devices provided.
 
+**Hazard - Protect electrical cables from damage and inadvertent disconnection**
 
+![Warning](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/9b117ed0-b0b9-4930-8e2a-edb7f4950d88)
+The loss of controlling and feedback signals due to a potentially disconnected or damaged cable causes an open-loop condition that may drive the actuator or crosshead rapidly to its extremes positions. Protect all electrical cables, particularly transducer cables, from damage. Never route cables across the floor without protection or suspend cables overhead under excessive strain. Use protective padding to avoid inter cable frictions especially around corners or through wall openings.
+
+**Warnings**
+
+**High/Low-Temperature Hazard - Wear protective clothing when handling equipment under extreme temperatures**
+
+![Temperature Hazard](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/873a4d6f-db9d-4ef8-b794-c10a5dbea215)
+Materials testing is often carried out at non-ambient temperatures using ovens, furnaces, or cryogenic chambers. Extreme temperature implies an operating temperature exceeding 60 °C (140 °F) or below 0 °C (32 °F). You must use protective clothing, such as gloves when handling equipment at these temperatures. Display a warning notice concerning low or high-temperature operation whenever temperature control equipment is in use. You should note that the hazard from extreme temperatures can extend beyond the immediate test area.
+
+**Crush Hazard - Take care when mounting or removing a specimen, assembly, structure, or load string component**
+
+![Crush Hazard](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/ada82a89-4db6-4d79-990d-52a5290253bc)
+Mounting or removal of a specimen, assembly, structure, or load string component involves working inside the impact zone between the grips or fixtures. When working in this area, ensure that no other personnel can remotely access or operate any of the system controls. Always keep clear of the jaws of a grip or fixture. Keep clear of the hazard area between the grips or fixtures during actuator or crosshead movement. Ensure that all actuator or crosshead movements necessary for mounting or removal are slow and, at a low force setting whenever possible.
+
+**Hazard - Never place a testing system in the off-line mode in the computer control. Ensure that no actuator or crosshead movement will occur upon switching over to manual control**
+
+![Warning](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/046bb93d-fa92-4e09-92db-1a31a84af1c3)
+The actuator or crosshead will immediately respond to manual control settings when the system is placed off-line from computer control. Before transferring to manual control, make sure that the control settings are appropriately optimized to prevent any unexpected movements of the actuator or the crosshead.
+
+**Warnings**
+
+**Hazard - Set appropriate limits before performing loop tuning or running waveforms or tests**
+
+![Warning](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/d14a0fda-5402-4ffb-a89f-1750902e4c3a)
+Operational limits are included within the testing system to suspend motion or shut off the system when upper and/or lower bounds of actuator or crosshead travel, or force or strain, are reached during testing. Correct setting of operational limits by the operator, before testing, will drastically reduce the risk of damage to the test article, system, and consequently to the operator 
+
+**Electrical Hazard - Disconnect the electrical power supply before removing the covers to electrical equipment**
+
+![Electric Hazard](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/0ef073a1-16e2-4164-a8d2-994ffde40684)
+Disconnect equipment from the electrical power supply before removing any electrical safety covers or replacing fuses. Do not reconnect the power source while the covers are removed. Refit covers immediately.
+
+**Rotating Machinery Hazard - Disconnect power supplies before removing the covers to rotating machinery**
+
+![Rotating Machine Hazard](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/b77f55c8-d6d2-4387-a570-fab22eb36c71)
+Disconnect equipment from all power supplies before removing any cover which gives access to rotating machinery. Do not reconnect any power supply while the covers are removed unless you are specifically instructed to do so in the manual. If the equipment needs to be operated to perform maintenance tasks with the covers removed, ensure that all loose clothing, long hair, etc. is tied back neatly and refit covers immediately.
 
 
 
