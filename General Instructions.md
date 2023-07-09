@@ -201,14 +201,14 @@ To select a required language go to SettingsOthersLanguage
 ## 9.1. Damper Testing
 
    1. Requirements
-    - Grips/Fixtures: Pre-mounted on system
+     - Grips/Fixtures: Pre-mounted on system
 
    2. Test Procedure
-    - Powering Up the System
-    - Test Setup
-     - Mount Specimen
-    - Run the test
-    - Export Data
+     - Powering Up the System
+     - Test Setup
+       - Mount Specimen
+     - Run the test
+     - Export Data
 
 ### 9.1.1. Powering up the System
    a.	Please ensure to switch ON 
@@ -216,7 +216,8 @@ To select a required language go to SettingsOthersLanguage
     - UPS Mains (Inside enclosure)
      - UPS Input
      -	UPS (Inside enclosure)
-     -	Host Computer System ![PC and UPS image](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/a922d7f6-0cf3-42a2-aa9d-5a1b2ce75180)
+     -	Host Computer System ![PC and UPS image](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/4bbe9150-463f-45b7-9efe-ac78927d4307)
+
 
     - Controller (Inside enclosure) – Wait for 40 to 60 sec ![Controller](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/af17f4da-ee20-4ddb-a8e7-161cc66ccc8d)
 
