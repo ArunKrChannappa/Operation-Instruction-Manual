@@ -214,6 +214,7 @@ To select a required language go to SettingsOthersLanguage
   a.	Please ensure to switch ON 
 
    -	UPS Mains (Inside enclosure)
+     
      -	UPS Input
      -	UPS (Inside enclosure)
      -	Host Computer System ![PC and UPS image](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/92a257eb-f17d-4a19-94f1-26b6292c5ea4)
