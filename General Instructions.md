@@ -213,13 +213,13 @@ To select a required language go to SettingsOthersLanguage
 ### 9.1.1. Powering up the System
    a.	Please ensure to switch ON 
 
-    - UPS Mains (Inside enclosure)
-     - UPS Input
-     -	UPS (Inside enclosure)
-     -	Host Computer System ![PC and UPS image](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/4bbe9150-463f-45b7-9efe-ac78927d4307)
+      -	UPS Mains (Inside enclosure)
+        -	UPS Input
+        -	UPS (Inside enclosure)
+        -	Host Computer System ![PC and UPS image](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/92a257eb-f17d-4a19-94f1-26b6292c5ea4)
 
+      -	Controller (Inside enclosure) – Wait for 40 to 60 sec ![Controller](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/4cf50f98-df7b-471a-b3b2-2716afd4f3fe)
 
-    - Controller (Inside enclosure) – Wait for 40 to 60 sec ![Controller](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/af17f4da-ee20-4ddb-a8e7-161cc66ccc8d)
 
    b.	Double click on MTL 32 icon ![MTL32 icon](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/f92dc0b0-52ee-41de-a24d-2bdea5dc1e59)
  on the desktop 
