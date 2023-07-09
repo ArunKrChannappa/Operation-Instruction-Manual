@@ -200,90 +200,90 @@ To select a required language go to SettingsOthersLanguage
 
 ## 9.1. Damper Testing
 
-   1. Requirements
-     - Grips/Fixtures: Pre-mounted on system
+ 1. Requirements
+    - Grips/Fixtures: Pre-mounted on system
 
-   2. Test Procedure
-     - Powering Up the System
-     - Test Setup
-       - Mount Specimen
-     - Run the test
-     - Export Data
+ 2. Test Procedure
+    - Powering Up the System
+    - Test Setup
+     - Mount Specimen
+    - Run the test
+    - Export Data
 
 ### 9.1.1. Powering up the System
-   a.	Please ensure to switch ON 
+  a.	Please ensure to switch ON 
 
-      -	UPS Mains (Inside enclosure)
-        -	UPS Input
-        -	UPS (Inside enclosure)
-        -	Host Computer System ![PC and UPS image](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/92a257eb-f17d-4a19-94f1-26b6292c5ea4)
+   -	UPS Mains (Inside enclosure)
+    -	UPS Input
+    -	UPS (Inside enclosure)
+    -	Host Computer System ![PC and UPS image](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/92a257eb-f17d-4a19-94f1-26b6292c5ea4)
 
-      -	Controller (Inside enclosure) – Wait for 40 to 60 sec ![Controller](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/4cf50f98-df7b-471a-b3b2-2716afd4f3fe)
+    -	Controller (Inside enclosure) – Wait for 40 to 60 sec ![Controller](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/4cf50f98-df7b-471a-b3b2-2716afd4f3fe)
 
 
-   b.	Double click on MTL 32 icon ![MTL32 icon](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/f92dc0b0-52ee-41de-a24d-2bdea5dc1e59)
+  b.	Double click on MTL 32 icon ![MTL32 icon](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/f92dc0b0-52ee-41de-a24d-2bdea5dc1e59)
  on the desktop 
-   c.	Click “Go-Online” button & wait for 15-30 seconds
+  c.	Click “Go-Online” button & wait for 15-30 seconds
 
 ### 9.1.2. Test Setup
   **Mount specimen**
-    -	Before initiating the specimen mounting procedure, open the PLI control panel
-    -	Double click on the PLI icon ![PLI Icon](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/30d682b3-13b3-41e9-985b-c1769ce0cadf) on the tab & click connect button as shown below
+   -	Before initiating the specimen mounting procedure, open the PLI control panel
+   -	Double click on the PLI icon ![PLI Icon](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/30d682b3-13b3-41e9-985b-c1769ce0cadf) on the tab & click connect button as shown below
 
   ![PLI Communication](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/fe598b44-f16d-40e8-a8e9-fdfd641c8bce)
 
-    -	Click the “ON” button to turn ON system (system switches ON in low mode), wait for 5 s & again click the “HI” button (switches to High mode). Once the system is under high mode, the “HI” button will change to “L0”.
-    - Select the Shock absorber & program to be tested from Shox QC application
+   -	Click the “ON” button to turn ON system (system switches ON in low mode), wait for 5 s & again click the “HI” button (switches to High mode). Once the system is under high mode, the “HI” button will change to “L0”.
+   - Select the Shock absorber & program to be tested from Shox QC application
 
 ![Shox QC](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/89e04fcf-95be-493c-a7b1-23beda56eabb)
 
-    -	The system automatically calibrates load & position channels & sets the height for the said shock absorber. *. 
-    -	Perform warm-up cycling (S button) before testing any sample. This will ensure accurate test conditions
-    -	Hold the shocks straight and insert into the bottom grip as shown.
+   -	The system automatically calibrates load & position channels & sets the height for the said shock absorber. *. 
+   -	Perform warm-up cycling (S button) before testing any sample. This will ensure accurate test conditions
+   -	Hold the shocks straight and insert into the bottom grip as shown.
 
 ![Bottom Grip Identification](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/7bb0c25f-7049-415d-8f04-4f01a917f56a)
 
-    -	Ensure shock absorber is seated on the seater of bottom grip
-    -	The shock is now ready for the test.
+   -	Ensure shock absorber is seated on the seater of bottom grip
+   -	The shock is now ready for the test.
 
 ### 9.1.3. Run the Test
 
  **Sequence of Operation**
-    -	Ensure the damper is in fully extended position before placing the damper on to seater
-    -	Press the “Dual go” button mounted on the load frame or “Go” button on TKP box to start cycling
+   -	Ensure the damper is in fully extended position before placing the damper on to seater
+   -	Press the “Dual go” button mounted on the load frame or “Go” button on TKP box to start cycling
 
  ![System Identification](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/c91302ce-6e3a-4f7a-a5eb-ae62a84dd96e)
 
-    -	As the “Go” switch is pressed, bottom cylinder activates by clamping the damper to cartridge. 
-    -	Then top grip grabs the sample & upon clamping, priming cycles will be initiated followed by testing cycles as per program. 
-    -	Upon test completion, system returns to initial position and the damper must be removed.
-    -	At the end of each test, the system displays
-      -	Stroke Vs Load loop (Hysteresis loop)
-      -	Test status (Pass/Reject)
-      -	“Tension” & Compression values for each tested velocity
-      -	Buzzer will be activated if the sample fails to meet the requirements & resulting as “Reject”.
+   -	As the “Go” switch is pressed, bottom cylinder activates by clamping the damper to cartridge. 
+   -	Then top grip grabs the sample & upon clamping, priming cycles will be initiated followed by testing cycles as per program. 
+   -	Upon test completion, system returns to initial position and the damper must be removed.
+   -	At the end of each test, the system displays
+     -	Stroke Vs Load loop (Hysteresis loop)
+     -	Test status (Pass/Reject)
+     -	“Tension” & Compression values for each tested velocity
+     -	Buzzer will be activated if the sample fails to meet the requirements & resulting as “Reject”.
 
 ![Test Loop page](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/774481bb-9ced-44ba-9698-2414d82f2c05)
 
 **CAUTION!**
 
-    -	Never violate light screen while test is in progress.
-    -	To abort test in progress, press ABORT button.
-    -	Wait for test completion before removing part from tooling.
-    -	DISCARD REJECTED PARTS!!
+   -	Never violate light screen while test is in progress.
+   -	To abort test in progress, press ABORT button.
+   -	Wait for test completion before removing part from tooling.
+   -	DISCARD REJECTED PARTS!!
     
 **Aborting a test in progress**
 
-    -	Press ABORT button.
-    -	Wait for actuator to move to Home position.
-    -	Acknowledge operation by pressing Go button (or flicker switch).
-    -	Remove part and correct problem that caused Abort.
-    -	Re-insert part.
-    -	Press Go (or flicker switch).
+   -	Press ABORT button.
+   -	Wait for actuator to move to Home position.
+   -	Acknowledge operation by pressing Go button (or flicker switch).
+   -	Remove part and correct problem that caused Abort.
+   -	Re-insert part.
+   -	Press Go (or flicker switch).
 
 ### 9.1.4. Exporting Data
 
-    -	Test loop will appear after each test respectively. To export the loop from the file, refer Shox QC, Loop, Assign (Shox Loop section) application.
+   -	Test loop will appear after each test respectively. To export the loop from the file, refer Shox QC, Loop, Assign (Shox Loop section) application.
 
    Note: Refer to the Shox QC, Loop, and Assign application manual (Machine & maintenance manual) for more details on the application
 
