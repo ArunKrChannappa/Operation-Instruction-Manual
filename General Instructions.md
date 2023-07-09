@@ -251,7 +251,7 @@ To select a required language go to SettingsOthersLanguage
    -	Ensure the damper is in fully extended position before placing the damper on to seater
    -	Press the “Dual go” button mounted on the load frame or “Go” button on TKP box to start cycling
 
-    ![System Identification](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/6267d3b4-794d-4ac5-8b92-debf306e3a45)
+ ![System Identification](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/c91302ce-6e3a-4f7a-a5eb-ae62a84dd96e)
 
    -	As the “Go” switch is pressed, bottom cylinder activates by clamping the damper to cartridge. 
    -	Then top grip grabs the sample & upon clamping, priming cycles will be initiated followed by testing cycles as per program. 
