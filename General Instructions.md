@@ -210,5 +210,12 @@ To select a required language go to SettingsOthersLanguage
    - Run the test
    - Export Data
 
+### Powering up the System
+a.	Please ensure to switch ON 
+
+   - UPS Mains (Inside enclosure)
+     -	UPS Input
+     -	UPS (Inside enclosure)
+     -	Host Computer System
 
 
