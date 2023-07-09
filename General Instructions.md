@@ -212,7 +212,7 @@ To select a required language go to SettingsOthersLanguage
 
 ### 9.1.1. Powering up the System
    a.	Please ensure to switch ON
-    -	UPS Mains (Inside enclosure).   
+    -	UPS Mains (Inside enclosure)   
       -	UPS Input
       -	UPS (Inside enclosure)
       -	Host Computer System ![PC and UPS image](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/0a19fd67-c2c3-4436-a6ae-ca43af22de8c)
