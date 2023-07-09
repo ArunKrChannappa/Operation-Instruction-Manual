@@ -200,10 +200,10 @@ To select a required language go to SettingsOthersLanguage
 
 ## Damper Testing
 
-1. Requirements
+ 1. Requirements
    - Grips/Fixtures: Pre-mounted on system
 
-2. Test Procedure
+ 2. Test Procedure
    - Powering Up the System
    - Test Setup
      - Mount Specimen
@@ -211,11 +211,20 @@ To select a required language go to SettingsOthersLanguage
    - Export Data
 
 ### Powering up the System
-a.	Please ensure to switch ON 
+  a.	Please ensure to switch ON 
 
    - UPS Mains (Inside enclosure)
      -	UPS Input
      -	UPS (Inside enclosure)
-     -	Host Computer System
+     -	Host Computer System ![PC and UPS image](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/a922d7f6-0cf3-42a2-aa9d-5a1b2ce75180)
+
+   - Controller (Inside enclosure) – Wait for 40 to 60 sec ![Controller](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/af17f4da-ee20-4ddb-a8e7-161cc66ccc8d)
+
+  b.	Double click on MTL 32 icon![MTL32 icon](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/f92dc0b0-52ee-41de-a24d-2bdea5dc1e59)
+ on the desktop 
+  c.	Click “Go-Online” button & wait for 15-30 seconds
+
+### Test Setup
+  
 
 
