@@ -219,6 +219,7 @@ To select a required language go to SettingsOthersLanguage
         *	UPS (Inside enclosure)
         *	Host Computer System ![PC and UPS image](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/0a19fd67-c2c3-4436-a6ae-ca43af22de8c)
       -	Controller (Inside enclosure) – Wait for 40 to 60 sec 
+      
 ![Controller](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/a8692c55-41a1-4dd1-b2f6-26107ddbf284)
 
    b.	Double-click on MTL 32 icon ![MTL32 icon](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/f92dc0b0-52ee-41de-a24d-2bdea5dc1e59) on the desktop
