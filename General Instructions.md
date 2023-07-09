@@ -215,14 +215,12 @@ To select a required language go to SettingsOthersLanguage
 
    a.	Please ensure to switch ON
    
-      -	UPS Mains (Inside enclosure)   
+      -	UPS Mains (Inside enclosure)
       
         -	UPS Input
         -	UPS (Inside enclosure)
-        -	Host Computer System
+        -	Host Computer Systtem ![Picture1](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/5233be5e-765c-4795-9423-857e41bc8518)
         
-        ![PC and UPS image](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/7e1d3861-e83c-4969-aa9a-8b318b619316)
-
       -	Controller (Inside enclosure) – Wait for 40 to 60 sec 
       
 ![Controller](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/a8692c55-41a1-4dd1-b2f6-26107ddbf284)
