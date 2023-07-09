@@ -1,4 +1,4 @@
-# General Instructions
+# 1. General Instructions
 Testing systems are potentially hazardous.
 
 ![Warning](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/b75b0104-2ed8-4e66-af28-24a18fc6236a)
@@ -97,7 +97,7 @@ Wear eye protection and use protective shields or screens whenever there is a ri
 ![Warning](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/3f7d126b-3650-4355-8936-54e718f389de)
 Dynamic systems, especially where load reversals through zero are occurring, are at risk of fatigue cracks developing if components of the load string are not correctly pre-loaded to one another. Apply the specified torque to all load string fasteners and the correct setting to wedge washers or spiral washers. Visually inspect highly stressed components such as grips and threaded adapters before every fatigue test for signs of wear or fatigue damage.
 
-# System Components
+# 2. System Components
 
 | SL No | Model No | Description |
 |-------|----------|-------------|
@@ -126,11 +126,11 @@ Dynamic systems, especially where load reversals through zero are occurring, are
 | 23	| AC-03-SI | Safety Interlock for Air Pressure and Control panel door, Anti-tie Logic |
 | 24	| AC-03-SG | Steel Mesh Safety guard |
 
-## Component Identification
+## 2.1. Component Identification
 
 ![Component Identification](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/6c439bf5-8b3e-4bfa-a827-8291f1a9ac1b)
 
-# System Identification
+# 3. System Identification
 
 |   Component | Description |
 |-------------|-------------|
@@ -139,7 +139,7 @@ Dynamic systems, especially where load reversals through zero are occurring, are
 | ![Pump Start](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/b21f5df1-0551-4b7e-9aa5-6f85d577fc04) Pump Start | Press this button to start the HPS. |
 |	![Cntrollers](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/91d9b752-90af-4552-9e51-7fae3a6c04bf) Controllers | The 2020 Series control unit houses control components that: receive and process data from various system transducers, communicate with the system’s controlling software, and provide feedback to the system’s servo valve to operate the frame as set up in the controlling software. |
 
- # System Safety and Labelling Information
+ # 4. System Safety and Labelling Information
 
 | Label | Definition and Purpose |
 |----------|-------------|
@@ -152,7 +152,7 @@ Dynamic systems, especially where load reversals through zero are occurring, are
 | ![Ground Stud Hazard](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/d53eeb04-4c0b-488a-9d8c-9c6c33e4076a) | Ground stud - Indicates a ground stud. Connect to an appropriate ground/earth system. | 
 | ![Protective Earth Hazard](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/3e4ac3ad-1809-4fad-a6fa-94774cc95026) | Protective earth - Indicates the protective earth terminal for the main power supply. |
 
-# Product Documentation Guidelines
+# 5. Product Documentation Guidelines
 
 | Product | Purpose |
 |----------|-------------|
@@ -161,7 +161,7 @@ Dynamic systems, especially where load reversals through zero are occurring, are
 | Machine Manual  | How to properly set up and use any accessories you have purchased, for example, grips, fixtures, extensometers, transducers, hydraulic power units, actuators, and environmental chambers (if supplied). |
 |	Online Help | Software products come complete with context-sensitive help, which provides detailed information on how to use all the software features. |
 
-# System Usage Limits
+# 6. System Usage Limits
 
 | Activity | Description |
 |----------|-------------|
@@ -172,13 +172,13 @@ Dynamic systems, especially where load reversals through zero are occurring, are
 | Operator training/ experience: | Operators should be familiar with the operation of materials testing systems in general and with the inherent hazards of such testing. Operators should gain a thorough understanding of this equipment by reading these instructions and all other relevant documents provided. Initial basic safety and operational training are provided by ITW India Pvt Ltd (BISS Division) Service personnel during the installation of the system. Maintenance personnel or technicians should have sufficient training and skills to safely perform all the procedures. Trainees and apprentices should only operate or maintain the system under the direct supervision of qualified operators or maintenance personnel. The general public should not have access to the system. |
 | Exposure of other persons to hazards:	| Exposure to hazards is greatly reduced by the knowledge of qualified operators. Anyone who does not fit the criteria specified in the “Operator characteristics:” and “Operator training/experience:” sections of this table should not have access to the system. |
 
-# System Standard Operating Procedure
+# 7. System Standard Operating Procedure
 System can be operated entirely by the PLI Tab, and by functions within the controlling software:
 
 - PLI Tab
 - MTL32 basic & application software
 
-# PLI Tab Operating Guidelines
+# 8. PLI Tab Operating Guidelines
 
 **Settings**
 To select a required language go to SettingsOthersLanguage
@@ -195,10 +195,10 @@ To select a required language go to SettingsOthersLanguage
 
 ![Fault Panel](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/8ac8e90a-52ea-4e15-8aaa-1d0c9b8cef49)
 
-# Testing
+# 9. Testing
 - Damper testing
 
-## Damper Testing
+## 9.1. Damper Testing
 
  1. Requirements
    - Grips/Fixtures: Pre-mounted on system
@@ -210,7 +210,7 @@ To select a required language go to SettingsOthersLanguage
    - Run the test
    - Export Data
 
-### Powering up the System
+### 9.1.1. Powering up the System
   a.	Please ensure to switch ON 
 
    - UPS Mains (Inside enclosure)
@@ -220,11 +220,86 @@ To select a required language go to SettingsOthersLanguage
 
    - Controller (Inside enclosure) – Wait for 40 to 60 sec ![Controller](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/af17f4da-ee20-4ddb-a8e7-161cc66ccc8d)
 
-  b.	Double click on MTL 32 icon![MTL32 icon](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/f92dc0b0-52ee-41de-a24d-2bdea5dc1e59)
+  b.	Double click on MTL 32 icon ![MTL32 icon](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/f92dc0b0-52ee-41de-a24d-2bdea5dc1e59)
  on the desktop 
   c.	Click “Go-Online” button & wait for 15-30 seconds
 
-### Test Setup
-  
+### 9.1.2. Test Setup
+ **Mount specimen**
+   -	Before initiating the specimen mounting procedure, open the PLI control panel
+   -	Double click on the PLI icon ![PLI Icon](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/30d682b3-13b3-41e9-985b-c1769ce0cadf) on the tab & click connect button as shown below
+
+  ![PLI Communication](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/fe598b44-f16d-40e8-a8e9-fdfd641c8bce)
+
+  -	Click the “ON” button to turn ON system (system switches ON in low mode), wait for 5 s & again click the “HI” button (switches to High mode). Once the system is under high mode, the “HI” button will change to “L0”.
+  - Select the Shock absorber & program to be tested from Shox QC application
+
+![Shox QC](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/89e04fcf-95be-493c-a7b1-23beda56eabb)
+
+  -	The system automatically calibrates load & position channels & sets the height for the said shock absorber. *. 
+  -	Perform warm-up cycling (S button) before testing any sample. This will ensure accurate test conditions
+  -	Hold the shocks straight and insert into the bottom grip as shown.
+
+![Bottom Grip Identification](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/7bb0c25f-7049-415d-8f04-4f01a917f56a)
+
+  -	Ensure shock absorber is seated on the seater of bottom grip
+  -	The shock is now ready for the test.
+
+### 9.1.3. Run the Test
+
+ **Sequence of Operation**
+  -	Ensure the damper is in fully extended position before placing the damper on to seater
+  -	Press the “Dual go” button mounted on the load frame or “Go” button on TKP box to start cycling
+
+    ![System Identification](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/6267d3b4-794d-4ac5-8b92-debf306e3a45)
+
+  -	As the “Go” switch is pressed, bottom cylinder activates by clamping the damper to cartridge. 
+  -	Then top grip grabs the sample & upon clamping, priming cycles will be initiated followed by testing cycles as per program. 
+  -	Upon test completion, system returns to initial position and the damper must be removed.
+  -	At the end of each test, the system displays
+    -	Stroke Vs Load loop (Hysteresis loop)
+    -	Test status (Pass/Reject)
+    -	“Tension” & Compression values for each tested velocity
+    -	Buzzer will be activated if the sample fails to meet the requirements & resulting as “Reject”.
+
+![Test Loop page](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/774481bb-9ced-44ba-9698-2414d82f2c05)
+
+**CAUTION!**
+
+  -	Never violate light screen while test is in progress.
+  -	To abort test in progress, press ABORT button.
+  -	Wait for test completion before removing part from tooling.
+  -	DISCARD REJECTED PARTS!!
+    
+**Aborting a test in progress**
+
+  -	Press ABORT button.
+  -	Wait for actuator to move to Home position.
+  -	Acknowledge operation by pressing Go button (or flicker switch).
+  -	Remove part and correct problem that caused Abort.
+  -	Re-insert part.
+  -	Press Go (or flicker switch).
+
+### 9.1.4. Exporting Data
+
+  -	Test loop will appear after each test respectively. To export the loop from the file, refer Shox QC, Loop, Assign (Shox Loop section) application.
+
+    Note: Refer to the Shox QC, Loop, Assign application manual (Machine & maintenance manual) for more details on application
+
+**Note: If no other test is being conducted, it is recommended to Turn OFF/Shut down the following devices**
+
+  a.	HPS
+  b.	Shox QC, Loop, Assign test applications
+  c.	MTL32 basic software
+  d.	Controller
+  e.	Computer
+  f.	UPS
+  g.	UPS input
+  h.	Mains
+
+
+
+
+
 
 
