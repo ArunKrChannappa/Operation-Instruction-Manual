@@ -284,7 +284,7 @@ To select a required language go to SettingsOthersLanguage
 
    -	Test loop will appear after each test respectively. To export the loop from the file, refer Shox QC, Loop, Assign (Shox Loop section) application.
 
-    Note: Refer to the Shox QC, Loop, Assign application manual (Machine & maintenance manual) for more details on application
+   Note: Refer to the Shox QC, Loop, and Assign application manual (Machine & maintenance manual) for more details on the application
 
 **Note: If no other test is being conducted, it is recommended to Turn OFF/Shut down the following devices**
 
