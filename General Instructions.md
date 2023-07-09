@@ -175,8 +175,8 @@ Dynamic systems, especially where load reversals through zero are occurring, are
 # 7. System Standard Operating Procedure
 System can be operated entirely by the PLI Tab, and by functions within the controlling software:
 
-- PLI Tab
-- MTL32 basic & application software
+   - PLI Tab
+   - MTL32 basic & application software
 
 # 8. PLI Tab Operating Guidelines
 
@@ -196,17 +196,17 @@ To select a required language go to SettingsOthersLanguage
 ![Fault Panel](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/8ac8e90a-52ea-4e15-8aaa-1d0c9b8cef49)
 
 # 9. Testing
-- Damper testing
+   - Damper testing
 
 ## 9.1. Damper Testing
 
- 1. Requirements
+  1. Requirements
    - Grips/Fixtures: Pre-mounted on system
 
- 2. Test Procedure
+  2. Test Procedure
    - Powering Up the System
    - Test Setup
-     - Mount Specimen
+    - Mount Specimen
    - Run the test
    - Export Data
 
@@ -214,9 +214,9 @@ To select a required language go to SettingsOthersLanguage
   a.	Please ensure to switch ON 
 
    - UPS Mains (Inside enclosure)
-     -	UPS Input
-     -	UPS (Inside enclosure)
-     -	Host Computer System ![PC and UPS image](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/a922d7f6-0cf3-42a2-aa9d-5a1b2ce75180)
+    - UPS Input
+    -	UPS (Inside enclosure)
+    -	Host Computer System ![PC and UPS image](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/a922d7f6-0cf3-42a2-aa9d-5a1b2ce75180)
 
    - Controller (Inside enclosure) – Wait for 40 to 60 sec ![Controller](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/af17f4da-ee20-4ddb-a8e7-161cc66ccc8d)
 
@@ -231,32 +231,32 @@ To select a required language go to SettingsOthersLanguage
 
   ![PLI Communication](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/fe598b44-f16d-40e8-a8e9-fdfd641c8bce)
 
-  -	Click the “ON” button to turn ON system (system switches ON in low mode), wait for 5 s & again click the “HI” button (switches to High mode). Once the system is under high mode, the “HI” button will change to “L0”.
-  - Select the Shock absorber & program to be tested from Shox QC application
+   -	Click the “ON” button to turn ON system (system switches ON in low mode), wait for 5 s & again click the “HI” button (switches to High mode). Once the system is under high mode, the “HI” button will change to “L0”.
+   - Select the Shock absorber & program to be tested from Shox QC application
 
 ![Shox QC](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/89e04fcf-95be-493c-a7b1-23beda56eabb)
 
-  -	The system automatically calibrates load & position channels & sets the height for the said shock absorber. *. 
-  -	Perform warm-up cycling (S button) before testing any sample. This will ensure accurate test conditions
-  -	Hold the shocks straight and insert into the bottom grip as shown.
+   -	The system automatically calibrates load & position channels & sets the height for the said shock absorber. *. 
+   -	Perform warm-up cycling (S button) before testing any sample. This will ensure accurate test conditions
+   -	Hold the shocks straight and insert into the bottom grip as shown.
 
 ![Bottom Grip Identification](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/7bb0c25f-7049-415d-8f04-4f01a917f56a)
 
-  -	Ensure shock absorber is seated on the seater of bottom grip
-  -	The shock is now ready for the test.
+   -	Ensure shock absorber is seated on the seater of bottom grip
+   -	The shock is now ready for the test.
 
 ### 9.1.3. Run the Test
 
  **Sequence of Operation**
-  -	Ensure the damper is in fully extended position before placing the damper on to seater
-  -	Press the “Dual go” button mounted on the load frame or “Go” button on TKP box to start cycling
+   -	Ensure the damper is in fully extended position before placing the damper on to seater
+   -	Press the “Dual go” button mounted on the load frame or “Go” button on TKP box to start cycling
 
     ![System Identification](https://github.com/ArunKrChannappa/Operation-Instruction-Manual/assets/135500911/6267d3b4-794d-4ac5-8b92-debf306e3a45)
 
-  -	As the “Go” switch is pressed, bottom cylinder activates by clamping the damper to cartridge. 
-  -	Then top grip grabs the sample & upon clamping, priming cycles will be initiated followed by testing cycles as per program. 
-  -	Upon test completion, system returns to initial position and the damper must be removed.
-  -	At the end of each test, the system displays
+   -	As the “Go” switch is pressed, bottom cylinder activates by clamping the damper to cartridge. 
+   -	Then top grip grabs the sample & upon clamping, priming cycles will be initiated followed by testing cycles as per program. 
+   -	Upon test completion, system returns to initial position and the damper must be removed.
+   -	At the end of each test, the system displays
     -	Stroke Vs Load loop (Hysteresis loop)
     -	Test status (Pass/Reject)
     -	“Tension” & Compression values for each tested velocity
@@ -266,36 +266,36 @@ To select a required language go to SettingsOthersLanguage
 
 **CAUTION!**
 
-  -	Never violate light screen while test is in progress.
-  -	To abort test in progress, press ABORT button.
-  -	Wait for test completion before removing part from tooling.
-  -	DISCARD REJECTED PARTS!!
+   -	Never violate light screen while test is in progress.
+   -	To abort test in progress, press ABORT button.
+   -	Wait for test completion before removing part from tooling.
+   -	DISCARD REJECTED PARTS!!
     
 **Aborting a test in progress**
 
-  -	Press ABORT button.
-  -	Wait for actuator to move to Home position.
-  -	Acknowledge operation by pressing Go button (or flicker switch).
-  -	Remove part and correct problem that caused Abort.
-  -	Re-insert part.
-  -	Press Go (or flicker switch).
+   -	Press ABORT button.
+   -	Wait for actuator to move to Home position.
+   -	Acknowledge operation by pressing Go button (or flicker switch).
+   -	Remove part and correct problem that caused Abort.
+   -	Re-insert part.
+   -	Press Go (or flicker switch).
 
 ### 9.1.4. Exporting Data
 
-  -	Test loop will appear after each test respectively. To export the loop from the file, refer Shox QC, Loop, Assign (Shox Loop section) application.
+   -	Test loop will appear after each test respectively. To export the loop from the file, refer Shox QC, Loop, Assign (Shox Loop section) application.
 
     Note: Refer to the Shox QC, Loop, Assign application manual (Machine & maintenance manual) for more details on application
 
 **Note: If no other test is being conducted, it is recommended to Turn OFF/Shut down the following devices**
 
-  a.	HPS
-  b.	Shox QC, Loop, Assign test applications
-  c.	MTL32 basic software
-  d.	Controller
-  e.	Computer
-  f.	UPS
-  g.	UPS input
-  h.	Mains
+   1.	HPS
+   2.	Shox QC, Loop, Assign test applications
+   3.	MTL32 basic software
+   4.	Controller
+   5.	Computer
+   6.	UPS
+   7.	UPS input
+   8.	Mains
 
 
 
